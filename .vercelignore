@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+.git
+Readme.md
+assets/scss
+Projects_Portfolio
